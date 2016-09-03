@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.cnd.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>heater.firmware.esp8266-nonos.cpp</name>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions>cpp</cpp-extensions>
+            <header-extensions>h,hpp</header-extensions>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../misc.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../timer.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../blinker.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../esp-open-rtos.gpio.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../date_time.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../bluemix.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../realtimelogic.json.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../br3ttb.pid.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../button.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../dht.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../paho.mqtt.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../mqtt.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../rpcmqtt.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../wifi.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../raburton.rboot.esp8266-nonos.cpp</sourceRootElem>
+                <sourceRootElem>../upgrader.esp8266-nonos.cpp</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>Debug</name>
+                    <type>3</type>
+                </confElem>
+                <confElem>
+                    <name>Release</name>
+                    <type>1</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

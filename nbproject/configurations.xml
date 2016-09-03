@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="blinker.esp8266-nonos.cpp"
+                     displayName="blinker.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../blinker.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../blinker.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../blinker.esp8266-nonos.cpp/blinker.c</itemPath>
+        <itemPath>../blinker.esp8266-nonos.cpp/blinker.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="bluemix.esp8266-nonos.cpp"
+                     displayName="bluemix.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../bluemix.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../bluemix.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../bluemix.esp8266-nonos.cpp/bluemix.c</itemPath>
+        <itemPath>../bluemix.esp8266-nonos.cpp/bluemix.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="br3ttb.pid.esp8266-nonos.cpp"
+                     displayName="br3ttb.pid.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <logicalFolder name="Arduino-PID-Library"
+                       displayName="Arduino-PID-Library"
+                       projectFiles="true">
+          <itemPath>../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.cpp</itemPath>
+          <itemPath>../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.h</itemPath>
+        </logicalFolder>
+        <itemPath>../br3ttb.pid.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../br3ttb.pid.esp8266-nonos.cpp/README.md</itemPath>
+      </logicalFolder>
+      <logicalFolder name="button.esp8266-nonos.cpp"
+                     displayName="button.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../button.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../button.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../button.esp8266-nonos.cpp/button.c</itemPath>
+        <itemPath>../button.esp8266-nonos.cpp/button.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="date_time.esp8266-nonos.cpp"
+                     displayName="date_time.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../date_time.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../date_time.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../date_time.esp8266-nonos.cpp/system_time.c</itemPath>
+        <itemPath>../date_time.esp8266-nonos.cpp/system_time.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="dht.esp8266-nonos.cpp"
+                     displayName="dht.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../dht.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../dht.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../dht.esp8266-nonos.cpp/dht22.cpp</itemPath>
+        <itemPath>../dht.esp8266-nonos.cpp/dht22.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="esp-open-rtos.gpio.esp8266-nonos.cpp"
+                     displayName="esp-open-rtos.gpio.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <logicalFolder name="gpio" displayName="gpio" projectFiles="true">
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/common_macros.h</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/esp_iomux.c</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio.h</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio_regs.h</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux.h</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_private.h</itemPath>
+          <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_regs.h</itemPath>
+        </logicalFolder>
+        <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../esp-open-rtos.gpio.esp8266-nonos.cpp/README.md</itemPath>
+      </logicalFolder>
+      <logicalFolder name="misc.esp8266-nonos.cpp"
+                     displayName="misc.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../misc.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/espmissingincludes.h</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/hexdump.c</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/hexdump.h</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/uart.c</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/uart.h</itemPath>
+        <itemPath>../misc.esp8266-nonos.cpp/uart_register.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="mqtt.esp8266-nonos.cpp"
+                     displayName="mqtt.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../mqtt.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../mqtt.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../mqtt.esp8266-nonos.cpp/mqtt_client.c</itemPath>
+        <itemPath>../mqtt.esp8266-nonos.cpp/mqtt_client.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="paho.mqtt.esp8266-nonos.cpp"
+                     displayName="paho.mqtt.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <logicalFolder name="MQTTPacket" displayName="MQTTPacket" projectFiles="true">
+          <logicalFolder name="src" displayName="src" projectFiles="true">
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnect.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectClient.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectServer.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTDeserializePublish.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPublish.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSerializePublish.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribe.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeClient.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeServer.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribe.h</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeClient.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeServer.c</itemPath>
+            <itemPath>../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/StackTrace.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <itemPath>../paho.mqtt.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../paho.mqtt.esp8266-nonos.cpp/README.md</itemPath>
+      </logicalFolder>
+      <logicalFolder name="raburton.rboot.esp8266-nonos.cpp"
+                     displayName="raburton.rboot.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <logicalFolder name="appcode" displayName="appcode" projectFiles="true">
+          <itemPath>../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.c</itemPath>
+          <itemPath>../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.h</itemPath>
+          <itemPath>../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-bigflash.c</itemPath>
+        </logicalFolder>
+        <logicalFolder name="firmware" displayName="firmware" projectFiles="true">
+          <itemPath>../raburton.rboot.esp8266-nonos.cpp/firmware/rboot.bin</itemPath>
+        </logicalFolder>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/Makefile</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/blank4.bin</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/eagle.app.v6.ld</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/eagle.rom.addr.v6.ld</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/license.txt</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rboot-private.h</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rboot-stage2a.c</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rboot-stage2a.ld</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rboot.c</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rboot.h</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/readme-api.txt</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/readme.txt</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rom0.ld</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/rom1.ld</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/testload1.c</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/testload1.h</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/testload2.c</itemPath>
+        <itemPath>../raburton.rboot.esp8266-nonos.cpp/testload2.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="realtimelogic.json.esp8266-nonos.cpp"
+                     displayName="realtimelogic.json.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/BufPrint.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/BufPrint.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JDecoder.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JDecoder.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JEncoder.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JEncoder.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JParser.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JParser.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JVal.c</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/JVal.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/TargConfig.h</itemPath>
+        <itemPath>../realtimelogic.json.esp8266-nonos.cpp/atof.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="rpcmqtt.esp8266-nonos.cpp"
+                     displayName="rpcmqtt.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/mqtt_options.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/mqtt_options.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/service_device.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/service_device.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_accessory.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_accessory.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_container.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_container.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_services.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/svc_services.h</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/topics.c</itemPath>
+        <itemPath>../rpcmqtt.esp8266-nonos.cpp/topics.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="timer.esp8266-nonos.cpp"
+                     displayName="timer.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../timer.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../timer.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../timer.esp8266-nonos.cpp/timer.c</itemPath>
+        <itemPath>../timer.esp8266-nonos.cpp/timer.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="upgrader.esp8266-nonos.cpp"
+                     displayName="upgrader.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../upgrader.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../upgrader.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../upgrader.esp8266-nonos.cpp/upgrader.c</itemPath>
+        <itemPath>../upgrader.esp8266-nonos.cpp/upgrader.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="wifi.esp8266-nonos.cpp"
+                     displayName="wifi.esp8266-nonos.cpp"
+                     projectFiles="true">
+        <itemPath>../wifi.esp8266-nonos.cpp/LICENSE</itemPath>
+        <itemPath>../wifi.esp8266-nonos.cpp/README.md</itemPath>
+        <itemPath>../wifi.esp8266-nonos.cpp/wifi.c</itemPath>
+        <itemPath>../wifi.esp8266-nonos.cpp/wifi.h</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>LICENSE</itemPath>
+      <itemPath>README.md</itemPath>
+      <itemPath>deploy.sh</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>package.h</itemPath>
+      <itemPath>user_config.h</itemPath>
+      <itemPath>wifi.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../misc.esp8266-nonos.cpp</Elem>
+    <Elem>../timer.esp8266-nonos.cpp</Elem>
+    <Elem>../blinker.esp8266-nonos.cpp</Elem>
+    <Elem>../esp-open-rtos.gpio.esp8266-nonos.cpp</Elem>
+    <Elem>../date_time.esp8266-nonos.cpp</Elem>
+    <Elem>../bluemix.esp8266-nonos.cpp</Elem>
+    <Elem>../realtimelogic.json.esp8266-nonos.cpp</Elem>
+    <Elem>../br3ttb.pid.esp8266-nonos.cpp</Elem>
+    <Elem>../button.esp8266-nonos.cpp</Elem>
+    <Elem>../dht.esp8266-nonos.cpp</Elem>
+    <Elem>../paho.mqtt.esp8266-nonos.cpp</Elem>
+    <Elem>../mqtt.esp8266-nonos.cpp</Elem>
+    <Elem>../rpcmqtt.esp8266-nonos.cpp</Elem>
+    <Elem>../wifi.esp8266-nonos.cpp</Elem>
+    <Elem>../raburton.rboot.esp8266-nonos.cpp</Elem>
+    <Elem>../upgrader.esp8266-nonos.cpp</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="3">
+      <toolsSet>
+        <compilerSet>GNU_ESP_Open_SDK_NONOS|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <commandLine>-Os -Wall -Werror -Wpointer-arith -Wundef -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -std=gnu99 -D__ets__</commandLine>
+        </cTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="../blinker.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/blinker.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/blinker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/bluemix.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/bluemix.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/button.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/system_time.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/system_time.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/dht22.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/dht22.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/common_macros.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/esp_iomux.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio_regs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_regs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/espmissingincludes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/hexdump.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/hexdump.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart_register.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/mqtt_client.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/mqtt_client.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnect.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTDeserializePublish.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPublish.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSerializePublish.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribe.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribe.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/StackTrace.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-bigflash.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/blank4.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/eagle.app.v6.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/eagle.rom.addr.v6.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/firmware/rboot.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/license.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot-private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot-stage2a.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot-stage2a.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/readme-api.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/readme.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rom0.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rom1.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload1.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload2.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload2.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BufPrint.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BufPrint.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JDecoder.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JDecoder.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JEncoder.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JEncoder.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JParser.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JParser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JVal.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JVal.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/TargConfig.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/atof.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_options.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_options.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/service_device.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/service_device.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_accessory.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_accessory.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_container.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_container.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_services.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_services.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/topics.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/topics.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/timer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/upgrader.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/upgrader.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/wifi.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/wifi.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="deploy.sh" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="package.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="user_config.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wifi.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>GNU_ESP_Open_SDK_NONOS|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <incDir>
+            <pElem>/Volumes/case-sensitive-espressif/esp-open-sdk/sdk/include</pElem>
+            <pElem>../../..</pElem>
+            <pElem>../raburton.rboot.esp8266-nonos.cpp</pElem>
+            <pElem>../raburton.rboot.esp8266-nonos.cpp/appcode</pElem>
+            <pElem>.</pElem>
+          </incDir>
+          <commandLine>-Os -Wall -Werror -Wpointer-arith -Wundef -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -std=gnu99 -D__ets__</commandLine>
+          <preprocessorList>
+            <Elem>ICACHE_FLASH</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <incDir>
+            <pElem>/Volumes/case-sensitive-espressif/esp-open-sdk/sdk/include</pElem>
+            <pElem>../../..</pElem>
+            <pElem>../raburton.rboot.esp8266-nonos.cpp</pElem>
+            <pElem>../raburton.rboot.esp8266-nonos.cpp/appcode</pElem>
+            <pElem>.</pElem>
+          </incDir>
+          <commandLine>-Os -Wall -Werror -Wpointer-arith -Wundef -Wl,-EL -fno-inline-functions -nostdlib -mlongcalls -mtext-section-literals -D__ets__</commandLine>
+          <preprocessorList>
+            <Elem>ICACHE_FLASH</Elem>
+          </preprocessorList>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/rom0.elf</output>
+          <commandLine>-Wl,--no-check-sections -L${LIB_DIR} -nostdlib -fno-rtti -T${LD_SCRIPT1} -u ${ENTRY_SYMBOL} -Wl,-static -Wl,--start-group ${LIB_GROUP} -Wl,--end-group</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="../blinker.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/blinker.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../blinker.esp8266-nonos.cpp/blinker.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/bluemix.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../bluemix.esp8266-nonos.cpp/bluemix.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/Arduino-PID-Library/PID_v1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../br3ttb.pid.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/button.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../button.esp8266-nonos.cpp/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/system_time.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../date_time.esp8266-nonos.cpp/system_time.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/dht22.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../dht.esp8266-nonos.cpp/dht22.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/common_macros.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/esp_iomux.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/gpio_regs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../esp-open-rtos.gpio.esp8266-nonos.cpp/gpio/iomux_regs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/espmissingincludes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/hexdump.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/hexdump.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../misc.esp8266-nonos.cpp/uart_register.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/mqtt_client.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../mqtt.esp8266-nonos.cpp/mqtt_client.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnect.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTConnectServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTDeserializePublish.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTFormat.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPacket.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTPublish.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSerializePublish.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribe.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTSubscribeServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribe.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeClient.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/MQTTUnsubscribeServer.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/MQTTPacket/src/StackTrace.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../paho.mqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-api.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/appcode/rboot-bigflash.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/blank4.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/eagle.app.v6.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/eagle.rom.addr.v6.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/firmware/rboot.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/license.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot-private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot-stage2a.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rboot.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/readme-api.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/readme.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rom0.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/rom1.ld"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload1.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../raburton.rboot.esp8266-nonos.cpp/testload2.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/AllocatorIntf.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BaAtoi.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BufPrint.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/BufPrint.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JDecoder.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JDecoder.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JEncoder.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JEncoder.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JParser.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JParser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JVal.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/JVal.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/TargConfig.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../realtimelogic.json.esp8266-nonos.cpp/atof.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_connector.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_options.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/mqtt_options.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/service_device.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/service_device.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_accessory.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_accessory.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_characteristics.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_container.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_container.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_services.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/svc_services.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/topics.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../rpcmqtt.esp8266-nonos.cpp/topics.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../timer.esp8266-nonos.cpp/timer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/LICENSE"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/upgrader.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../upgrader.esp8266-nonos.cpp/upgrader.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/README.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/wifi.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../wifi.esp8266-nonos.cpp/wifi.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LICENSE" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="deploy.sh" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="package.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="user_config.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="wifi.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
